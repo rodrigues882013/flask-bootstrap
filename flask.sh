@@ -1,0 +1,12 @@
+mkdir $1;
+cd $1;
+mkdir $1;
+mkdir tests;
+touch setup.py;
+touch setup.cfg;
+cd $1;
+mkdir static;
+mkdir templates;
+touch __init__.py;
+touch $1.py;
+touch schema.sql;
