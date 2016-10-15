@@ -3,8 +3,8 @@ A quickly and fast bootstrap to flask projects using cli (unix)
 
 # Usage
 
-1 - Ensure that file have execute permission
-2 - flask-cli "project-name"
+1 - Ensure that file have execute permission__
+2 - flask-cli "project-name"__
 
 # Considerations
 
